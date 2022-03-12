@@ -1,0 +1,6 @@
+.success {
+    background-color: yellow;
+    border: 2px solid darkgreen;
+    color: darkgreen;
+    margin: 5px;
+}

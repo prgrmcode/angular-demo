@@ -1,0 +1,6 @@
+.warning {
+    background-color: red;
+    color: white;
+    border: solid 2px darkblue;
+    margin: 5px;
+}
